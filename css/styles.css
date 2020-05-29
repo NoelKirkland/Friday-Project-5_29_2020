@@ -1,21 +1,32 @@
-
-
-
+.top-header {
+  text-align: center;
+  text-decoration: underline;
+}
 .top-section {
   margin: 50px;
   border: 2px solid black;
   padding: 10px;
   background-color: rgb(241, 241, 241);
 }
-.top-header {
-  text-align: center;
-  text-decoration: underline;
+.my-work-header {
+  padding-top: 20px;
+  padding-left: 100px;
+  margin-left: 60px;
+}
+.my-work {
+font-weight: 1500;
 }
 
-ul {
-  border: 2px solid black;
+dt
+{
+    display: list-item;
+    list-style-type: disc;
 }
-
+dd
+{
+    display: list-item;
+    list-style-type: circle;
+}
 img {
   position: relative;
   max-width: 300px;
@@ -29,8 +40,5 @@ img {
   float: left;
 }
 
-.mywork-header {
-  padding-top: 60px;
-  padding-left: 100px;
-}
+
 
