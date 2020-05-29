@@ -5,26 +5,24 @@ dl {
   width: 300px;
   float: left;
 }
-.top-section {
-  margin-top: 1px;
-  margin-bottom: 1px;
-  margin-left: 60px;
-  margin-right: 60px;
-  border: 2px solid black;
-  padding: 10px;
-  background-color: rgb(241, 241, 241);
-}
+
 .top-header {
   text-align: center;
   text-decoration: underline;
+}
 
 .mywork-header {
-  text-indent: 30px;
+  padding-top: 60px;
+  padding-left: 100px;
 }
 
+img {
+  position: relative;
+  max-width: 300px;
+  max-height: auto;
 }
-}
-.my-work {
+
+p {
   margin-top: 1px;
   margin-bottom: 1px;
   margin-left: 60px;
