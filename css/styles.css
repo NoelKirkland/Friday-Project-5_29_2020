@@ -1,3 +1,6 @@
+
+
+
 .top-section {
   margin: 50px;
   border: 2px solid black;
@@ -9,10 +12,15 @@
   text-decoration: underline;
 }
 
+ul {
+  border: 2px solid black;
+}
+
 img {
-  float: left;
-  padding: 20px;
-  margin: 20px
+  position: relative;
+  max-width: 300px;
+  max-height: auto;
+  padding: 10px;
 }
 .column {
   padding: 10;
@@ -21,18 +29,8 @@ img {
   float: left;
 }
 
-.top-header {
-  text-align: center;
-  text-decoration: underline;
-}
-
 .mywork-header {
   padding-top: 60px;
   padding-left: 100px;
 }
 
-img {
-  position: relative;
-  max-width: 300px;
-  max-height: auto;
-}
