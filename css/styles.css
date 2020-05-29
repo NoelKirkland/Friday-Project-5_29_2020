@@ -1,3 +1,35 @@
 dl {
   list-style-type: disc;
 }
+.column {
+  width: 300px;
+  float: left;
+}
+.top-section {
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: 60px;
+  margin-right: 60px;
+  border: 2px solid black;
+  padding: 10px;
+  background-color: rgb(241, 241, 241);
+}
+.top-header {
+  text-align: center;
+  text-decoration: underline;
+
+.mywork-header {
+  text-indent: 30px;
+}
+
+}
+}
+.my-work {
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: 60px;
+  margin-right: 60px;
+  border: 2px solid black;
+  padding: 10px;
+  background-color: rgb(241, 241, 241);
+}
