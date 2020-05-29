@@ -1,8 +1,26 @@
 .top-section {
-  margin: 20px;
+  margin: 50px;
   border: 2px solid black;
   padding: 10px;
+  background-color: rgb(241, 241, 241);
 }
 .top-header {
+
+}
+h1 {
   text-align: center;
+  text-decoration: underline;
+}
+.about-me {
+  margin: 50px;
+  border: 2px solid black;
+  padding: 10px;
+  background-color: rgb(241, 241, 241);
+}
+.about-me-column {
+  width: 300px;
+  float: left;
+}
+p {
+  width: 300;
 }
