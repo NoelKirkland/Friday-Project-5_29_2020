@@ -16,7 +16,6 @@
 .my-work {
 font-weight: 1500;
 }
-
 dt
 {
     display: list-item;
@@ -26,6 +25,10 @@ dd
 {
     display: list-item;
     list-style-type: circle;
+}
+.me {
+  float: left;
+  margin-right: 50px;
 }
 img {
   position: relative;
@@ -39,6 +42,3 @@ img {
   width: 300px;
   float: left;
 }
-
-
-
